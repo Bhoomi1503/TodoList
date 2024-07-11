@@ -1,0 +1,39 @@
+body{
+    background-color: green;
+}
+.container{
+    /* border: 2px solid black; */
+    background-color: white;
+    margin: 200px 500px;
+    padding: 10px 30px 30px 20px;
+    color: black;
+    border-radius:10px;
+}
+button{
+    margin: 5px;
+}
+.blue{
+    border-radius:15px ;
+    border: none;
+    background-color: rgb(81, 142, 212);
+    padding: 5px 10px ;
+    color: white;
+}
+.red{
+    border-radius: 15px;
+    background-color: red;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+}
+.green{
+    border-radius: 15px;
+    background-color: rgb(77, 105, 34);
+    border: none;
+    padding: 5px 10px;
+    color:white;
+}
+.cut{
+    text-decoration: line-through;
+    background-color: lightslategray;
+}
